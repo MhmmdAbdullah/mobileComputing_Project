@@ -4,6 +4,11 @@ Treeve is a mobile application developed using Flutter to support forest monitor
 
 ---
 
+## Design Prototype
+
+Figma Design:  
+🔗 https://www.figma.com/design/QaxFBOsPslvKuGGiXroWUz/Treeve?node-id=0-1&t=n5gTq6LIQRTEoYjn-1
+
 ## Features
 
 ### Authentication
