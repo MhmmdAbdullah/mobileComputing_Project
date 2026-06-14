@@ -127,16 +127,16 @@ Future development will include:
 ## Screenshots
 
 ### Splash Screen
-![Splash](screenshots/splash.png)
+![Splash](treeve/screenshots/splash.png)
 
 ### Login Screen
-![Login](screenshots/login.png)
+![Login](treeve/screenshots/login.png)
 
 ### Register Screen
-![Register](screenshots/register.png)
+![Register](treeve/register.png)
 
 ### Verification Screen
-![Verification](screenshots/verification.png)
+![Verification](treeve/verification.png)
 
 ---
 
