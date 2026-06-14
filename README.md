@@ -133,10 +133,10 @@ Future development will include:
 ![Login](treeve/screenshots/login.png)
 
 ### Register Screen
-![Register](treeve/register.png)
+![Register](treeve/screenshots/register.png)
 
 ### Verification Screen
-![Verification](treeve/verification.png)
+![Verification](treeve/screenshots/verification.png)
 
 ---
 
