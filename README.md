@@ -124,17 +124,19 @@ Future development will include:
 
 ## Screenshots
 
+## Screenshots
+
 ### Splash Screen
-_Add screenshot here_
+![Splash](screenshots/splash.png)
 
 ### Login Screen
-_Add screenshot here_
+![Login](screenshots/login.png)
 
 ### Register Screen
-_Add screenshot here_
+![Register](screenshots/register.png)
 
 ### Verification Screen
-_Add screenshot here_
+![Verification](screenshots/verification.png)
 
 ---
 
